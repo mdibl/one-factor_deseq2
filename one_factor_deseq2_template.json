@@ -3,7 +3,7 @@
   "count_file_name": "jcoffman_008.klf9_multiTime_2021_merged.gene.counts.txt",
   "design_file_directory": "/compbio2/data/JimCoffman/jcoffman_008.klf9_multiTime_2021_merged",
   "design_file_name": "jcoffman_008_merged.design.txt",
-  "row_sum_th": "1",
+  "row_sum_th": 1,
   "model_formula": "genetics",
   "contrast": ["genetics", "KO", "WT"],
   "output_directory": "/compbio/analysis/JimCoffman/jcoffman_008.klf9_multiTime_2021_merged",
